@@ -7,7 +7,7 @@
 html {
   font-size: 62.5%;
   font-family: monospace;
-  background: lightgreen;
+  background: black;
 }
 
 header {
@@ -48,10 +48,11 @@ body h1 {
     margin: auto;
     text-align: center;
     font-size: 8rem;
-    box-shadow: 0px 8px 8px rgb(14 13 13 / 16%);
+    box-shadow: 0 8px 10px 1px grey;
     border: none;
     border-radius: 5px;
-    background: lightpink;
+    background:#2C3E50;
+    color: white;
 }
 
 main {
@@ -63,7 +64,7 @@ main {
     border: none;
     border-radius: 15px;
     box-shadow: 0 8px 10px 1px grey;
-    background: lightblue;
+    background: #2C3E50;
 }
 
 .container-parrafo {
@@ -79,7 +80,7 @@ footer {
     border: none;
     border-radius: 15px;
     box-shadow: 0 8px 10px 1px grey;
-    background: lightblue;
+    background: #2C3E50;
 }
 
 footer .textfooter {

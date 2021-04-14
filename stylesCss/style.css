@@ -35,7 +35,9 @@ body {
 
 }
 
-body h1 {
+h2 {
+  font-size: 3rem;
+  color: #DCE5EE;
   text-align: center;
   position: absolute;
 
@@ -91,4 +93,14 @@ footer .textfooter {
     padding: 0px;
     justify-content: center;
     font-size: 27px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #DCE5EE;
+  text-align: center;
+  margin-top: auto;
+  margin: auto;
+  padding: auto;
+
 }

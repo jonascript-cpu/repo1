@@ -1,7 +1,5 @@
-Experimento 2
 
-Experimento 1
 
-Main 2
+Main 1
 
 Así empieza mi historie en la programación
